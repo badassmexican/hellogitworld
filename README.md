@@ -1,3 +1,6 @@
+
+1. Jake adding 1st edit to jakesidea
+
 # Class: So You Want To Work In The Web?
 
 This is a sample project students can use during Matthew's Git class.
