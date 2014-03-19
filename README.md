@@ -1,5 +1,6 @@
 
 1. Joel adding text to joelsidea
+2. Joel adding more text to joelsidea
 
 # Class: So You Want To Work In The Web?
 
