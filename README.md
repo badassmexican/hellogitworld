@@ -1,7 +1,8 @@
 
 1. Joel adding text to joelsidea
 2. Joel adding more text to joelsidea
-
+3. Jake adding text to joelsidea
+   
 # Class: So You Want To Work In The Web?
 
 This is a sample project students can use during Matthew's Git class.
