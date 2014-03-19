@@ -1,7 +1,14 @@
 
+<<<<<<< HEAD
 1. Jake adding 1st edit to jakesidea
 2. Joel adding a line to jakesidea
 
+=======
+1. Joel adding text to joelsidea
+2. Joel adding more text to joelsidea
+3. Jake adding text to joelsidea
+   
+>>>>>>> 5fe124932e1b6c808e289cb2a5d5bc20ce0a5b51
 # Class: So You Want To Work In The Web?
 
 This is a sample project students can use during Matthew's Git class.
