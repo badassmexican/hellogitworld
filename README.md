@@ -1,5 +1,6 @@
 
 1. Jake adding 1st edit to jakesidea
+2. Joel adding a line to jakesidea
 
 # Class: So You Want To Work In The Web?
 
